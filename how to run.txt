@@ -1,0 +1,5 @@
+Go to the dist folder, then the app name, and then click on the .exe executable.
+Have a nice day!
+
+If you have Python, you can just run the Python file, but you need to have a module named:
+colorama

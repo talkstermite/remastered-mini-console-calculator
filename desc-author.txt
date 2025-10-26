@@ -1,0 +1,2 @@
+Author        : TalksTermite
+Project title : RemasteredMiniConsoleCalculator
